@@ -2,6 +2,8 @@
 ## ¡Bienvenid@ a mi comienzo como programadora Front-End 👩🏻‍💻!
 Se trata de mi primer proyecto en la cursada que llevo a cabo en [AdaITW](https://adaitw.org/).
 
+[Link al proyecto ☘](https://cecilianavarrocicala.github.io/portfolio/)
+
 Fecha de entrega 17/05/2022.
 
 ---
