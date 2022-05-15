@@ -438,17 +438,16 @@ label {
     .formulario-angosto {
         flex-wrap: wrap
     }    
-    #primary-nav .btn {
-        padding: 8px 20px;
+    #primary-nav {
+        display: none;
     }
     #contacto li {
         font-size: 0.8rem;
     }  
 }
 
-@media (max-width:650px) {
-    #primary-nav {
-        display: none;
+@media (max-width:570px) {
+    #contacto li {
+        font-size: 0.7rem;
     }
 }
-
