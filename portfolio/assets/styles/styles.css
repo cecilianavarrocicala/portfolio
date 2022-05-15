@@ -3,25 +3,6 @@
 }
 
 
-/********************** Indice: **********************
-
-Indice:
-021 Layout/Estructura
-045 Barra de navegacion
-064 Estilos de fuentes
-106 Estilos de tarjetas
-260 Estilos de formularios
-318 Estilos de img
-338 Estilos de botones
-407 Estilos del footer
-427 Breakpoints  
-
-/
-
-    /* VIOLETA #76323F */
-    /* VIOLETA CLARO #D7CEC7 */
-    /* PIZARRA #565656 */
-    /* BEIGE #C09F80 */
 
 /********************** Layout / Estructura **********************/
 
@@ -295,7 +276,7 @@ input, textarea {
 }
 
 input:focus, textarea:focus {
-    border: solid 1px #565656;
+    border: solid 0.2px #565656;
     outline: none;
 }
 
@@ -465,7 +446,7 @@ label {
     }  
 }
 
-@media (max-width:600px) {
+@media (max-width:650px) {
     #primary-nav {
         display: none;
     }
